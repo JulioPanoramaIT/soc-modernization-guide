@@ -43,7 +43,7 @@ Mi enfoque: entender el pain antes de proponer solución.
 - [`splunk-siem-latam`](./splunk-siem-latam) — Arquitecturas Splunk para SIEM enterprise: SPL, dashboards, correlaciones, SOAR.
 
 ### Infraestructura resiliente
-- [`cockroachdb-enterprise-patterns`](./cockroachdb-enterprise-patterns) — Patrones de arquitectura distribuida con CockroachDB para FSI y retail.
+- [`cockroachdb-enterprise-patterns`](./cockroachdb-enterprise) — Patrones de arquitectura distribuida con CockroachDB para FSI y retail.
 
 ---
 
