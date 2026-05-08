@@ -67,7 +67,7 @@ El stack técnico importa. Pero importa más entender por qué el stack actual n
 
 - 🌐 [LinkedIn](https://linkedin.com/in/julio-cesar-perdomo) — Contenido técnico-consultivo semanal
 - 📍 Zapopan, México · Operando en LATAM
-- 🏢 [Panorama Technologies](https://panoramatechnologies.com)
+- 🏢 [Panorama Technologies](https://panoramait.com)
 
 ---
 
